@@ -1,0 +1,26 @@
+
+        <div class="contact">
+            <div class="">
+            <h2>Contact</h2>
+            <h3 id="contact">General Information</h3>
+            <p>I am currently looking for development work experience in any industry. If you would like receive more
+                information about my skills, feel free to contact me!</p>
+            <p>Please email or call me if you have any possible job or training opportunities available. Anything else
+                just send me a tweet.</p>
+            </div>
+             <div class="">
+                 <h3 class="details_title">Contact Details</h3>
+                 <ul class="contact-info">
+                     <li class="phone"><a href="tel:312-608-5145"><i class="fa fa-phone"> 312-608-5145</i></a></li>
+                     <li class="mail"><a href="mailto:taryntrueblood@yahoo.com"><i class="fa fa-envelope">
+                                 taryntrueblood@yahoo.com </i></a></li>
+                     <button class=""><a href="http://twitter.com/ttrueblood85"
+                             target="_blank"><i class="fa fa-twitter"> Twitter</i></a></button>
+                     <button class=""><a href="https://github.com/ttrueblo"
+                             target="_blank"><i class="fa fa-github"> Github</i></a></button>
+                     <button class=""><a
+                             href="https://www.linkedin.com/in/taryn-trueblood-5b555016" target="_blank"><i
+                                 class="fa fa-linkedin-square"> LinkedIn</i></a></button>
+                     <button class=""><a href="http://www.facebook.com/ttrueblood85"
+                             target="_blank"><i class="fa fa-facebook-official"> Facebook</i></a></button>
+                    </ul>
